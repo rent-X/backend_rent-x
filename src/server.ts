@@ -2,6 +2,6 @@ import express from "express";
 
 const app = express();
 
-app.get("/", (_request, response) => response.json({ message: "Olha aqui" }));
+app.get("/", (request, response) => response.json({ message: "Look here!" }));
 
-app.listen(3000);
+app.listen(3333);
