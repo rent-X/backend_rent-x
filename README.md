@@ -1,2 +1,2 @@
-# rental-X
-Projeto desenvolvido durante o bootcamp Ignite - Rockeseat
+# The Developer's Path
+backend
